@@ -5,7 +5,7 @@
 > 面向个人研究/学习。非官方，依赖站点结构，改版可能失效。
 
 ## 前置依赖
-- **[Kimi WebBridge](https://github.com/…)** 守护进程（本机 `127.0.0.1:10086`）+ 其浏览器扩展。本工具**不自带**该 daemon，需另行安装。
+- **[Kimi WebBridge](https://www.kimi.com/products/kimi-webbridge)** 守护进程（本机 `127.0.0.1:10086`）+ 其浏览器扩展。本工具**不自带**该 daemon，需另行安装。
 - 一个**已登录小红书的真实浏览器**（推荐 Edge；daemon 同刻只绑一个扩展）。
 - Python 3（标准库为主，图片直连下载用 `urllib`）。
 

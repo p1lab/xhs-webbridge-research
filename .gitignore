@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+# 运行产物 / 采集数据（不要提交）
+json/
+imgs/
+*.db
+*.sqlite
+*.html
+export/
+_tests/
+_backup/
+.env
